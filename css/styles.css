@@ -12,11 +12,17 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455; 
+    color: #434455;
     background-color: #FFFFFF;
 }
 
-p, h1,h2,h3,h4,h5,h6 {
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -158,8 +164,7 @@ img {
     padding-bottom: 188px;
 }
 
-.hero-container {
-}
+.hero-container {}
 
 .hero-title {
     font-weight: 700;
@@ -231,8 +236,7 @@ img {
     margin-bottom: 8px;
 }
 
-.benefits-item-text {
-}
+.benefits-item-text {}
 
 /** -------------SERVICES------------ */
 
@@ -359,9 +363,7 @@ img {
     justify-content: center;
 }
 
-.projects-btn-item {
-    
-}
+.projects-btn-item {}
 
 .projects-btn {
     font-family: "Roboto", sans-serif;
@@ -412,4 +414,3 @@ img {
 }
 
 .projects-text {}
-

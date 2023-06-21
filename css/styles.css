@@ -86,8 +86,6 @@ img {
 .header-container {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
     background: var(--white-text);
 }
 
@@ -106,6 +104,8 @@ img {
     text-transform: uppercase;
     color: var(--iris-brand);
     margin-right: 76px;
+    display: block;
+    padding: 24px 0;
 }
 
 .header-span {
